@@ -1,5 +1,5 @@
-# Pingtunnel
-
+# Pingtunnel 2.7 已经全部备份到互联网时光机 https://archive.org/web ，包括github页面，releases页面，及流行的二进制zip文件，两个Source code
+文件
 [<img src="https://img.shields.io/github/license/esrrhs/pingtunnel">](https://github.com/esrrhs/pingtunnel)
 [<img src="https://img.shields.io/github/languages/top/esrrhs/pingtunnel">](https://github.com/esrrhs/pingtunnel)
 [![Go Report Card](https://goreportcard.com/badge/github.com/esrrhs/pingtunnel)](https://goreportcard.com/report/github.com/esrrhs/pingtunnel)
